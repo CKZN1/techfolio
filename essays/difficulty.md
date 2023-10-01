@@ -19,15 +19,33 @@ It is a challenging exam --academic study is not enough. It really that requires
 
 ## Some of the tougher subjects include:
 
-Azure networking, such as virtual networks, subnets, and load balancing
-Azure compute, such as virtual machines, scale sets
-Azure monitoring, backup and troubleshooting
-Azure security, such as role-based access control (RBAC) and Azure Security Center
+- **Azure Networking**
+  - Virtual Networks
+  - Subnets
+  - Load Balancing
+
+- **Azure Compute**
+  - Virtual Machines
+  - Scale Sets
+
+- **Azure Monitoring, Backup, and Troubleshooting**
+
+- **Azure Security**
+  - Role-Based Access Control (RBAC)
+  - Azure Security Center
+
 
 The exam is difficult because it covers a wide range of topics and requires a deep understanding of Azure. The exam is also challenging because it requires hands-on experience with Azure. You cannot pass the exam simply by bingeing pluralsight.
 
 ## Hard but fair
 
+<a href="https://learn.microsoft.com/en-us/users/chikezie/credentials/14edb2b77bed2a6f">
+  <img class="img-fluid" src="../img/difficulty/cert.png">
+</a>
+
+
+
 Ultimately I found the AZ-104 exam to be a challenging but rewarding experience. The exam forced me to delve into areas of Azure that I wouldn't normally have explored, such as advanced networking, routing and DNS.
+
 
 
