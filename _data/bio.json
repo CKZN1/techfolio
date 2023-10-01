@@ -10,7 +10,8 @@
     "location": { "address": "", "postalCode": "", "city": "London", "countryCode": "UK", "region": "" },
     "profiles": [
       { "network": "github", "username": "ckzn1", "url": "http://github.com/ckzn1" },
-      { "network": "linkedin", "username": "contractdev", "url": "http://linkedin.com/in/contractdev" }
+      { "network": "linkedin", "username": "contractdev", "url": "http://linkedin.com/in/contractdev" },
+      { "network": "twitter", "username": "1contractdev", "url": "http://twitter.com/1contractdev" }
     ]
   },
   "interests": [
