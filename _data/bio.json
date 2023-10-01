@@ -15,17 +15,17 @@
   },
   "interests": [
     { "name": "Artificial Intelligence" },
-    { "name": "Languages: Portuguese, Russian, German" },
-    { "name": "Photography, Sony A7IV, G Master 24-70mm" },
+    { "name": "Languages (Portuguese, Russian, German)" },
+    { "name": "Photography (Sony A7IV, FE 24-70mm Lens" },
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C#", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C#", "Javascript", "SQL", "Python" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Microsoft Azure", "ASP.Net Core", "Node JS", "React"]
     }
   ],
   "education": [
