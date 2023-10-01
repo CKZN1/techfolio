@@ -46,10 +46,13 @@
       "website": "",
       "startDate": "2011-03-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Developing and architecting Azure integrations to modern best practice.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Extensive software engineering background since 2006 (C++, C#, Javascript, React, Angular, Web API, .Net Core)",
+        "Highly experienced Developer, Team Lead and Azure Technical Architect with 15+ years of experience as a C# .Net developer, SQL and Azure devops.",
+        "Experience in designing and implementing scalable cloud solutions for clients. Extensive knowledge of Azure services and technologies, including PaaS, IaaS, and SaaS.",
+        "Understanding of cloud migration, cloud security, and DevOps processes.",
+        "Proven ability to lead, communicate and effectively manage multiple projects and priorities."
       ]
     }
   ],
@@ -69,7 +72,7 @@
   ],
   "references": [
     {
-      "name": "Available upon request"
+      "name": ""
     }
   ]
 }
