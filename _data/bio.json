@@ -1,16 +1,16 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Chikezie",
+    "label": "Contract Azure C# Developer Architect",
+    "picture": "https://avatars.githubusercontent.com/u/143608228?v=4",
+    "email": "contractdev@onmail.com",
+    "phone": "+447429349316",
+    "website": "https://contractdev.net",
+    "summary": "I'm a developer specialized in C#. Currently, I'm deeply fascinated with large data, particularly streaming data via Azure Stream Analytics. I'm keen on exploring efficient ways to visualise vast datasets using Python and JavaScript libraries.",
+    "location": { "address": "", "postalCode": "", "city": "London", "countryCode": "UK", "region": "" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
+      { "network": "github", "username": "mmaluhia", "url": "http://github.com/ckzn1" },
+      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/contractdev" },
       { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
       { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
     ]
