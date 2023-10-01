@@ -58,21 +58,21 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Azure Solutions Architect Expert",
+      "date": "2019",
+      "awarder": "Microsoft Certified",
+      "summary": "As a Microsoft Azure solutions architect, you have subject matter expertise in designing cloud and hybrid solutions that run on Azure."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Azure Administrator Associate",
+      "date": "2023",
+      "awarder": "Microsoft Certified",
+      "summary": "Demonstrated subject matter expertise in implementing, managing, and monitoring an organization’s Microsoft Azure environment."
     }
   ],
   "references": [
     {
-      "name": ""
+      "name": "One of the most professional and knowledgeable developers I've worked with - Adam S (New Signature)"
     }
   ]
 }
