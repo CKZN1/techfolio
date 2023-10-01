@@ -43,7 +43,7 @@
     {
       "company": "Self Employed Contractor",
       "position": "C# Developer, Azure Architect",
-      "website": "",
+      "website": "https://learn.microsoft.com/en-us/users/chikezie/credentials/14edb2b77bed2a6f",
       "startDate": "2011-03-01",
       "endDate": "Present",
       "summary": "Developing and architecting Azure integrations to modern best practice.",
@@ -58,17 +58,17 @@
   ],
   "awards": [
     {
-      "title": "Azure Solutions Architect Expert",
-      "date": "2019",
-      "awarder": "Microsoft Certified",
-      "summary": "As a Microsoft Azure solutions architect, you have subject matter expertise in designing cloud and hybrid solutions that run on Azure."
-    },
-    {
       "title": "Azure Administrator Associate",
       "date": "2023",
       "website": "https://learn.microsoft.com/en-us/users/chikezie/credentials/14edb2b77bed2a6f",
       "awarder": "Microsoft Certified",
       "summary": "Demonstrated subject matter expertise in implementing, managing, and monitoring an organization’s Microsoft Azure environment."
+    },
+    {
+      "title": "Azure Solutions Architect Expert",
+      "date": "2019",
+      "awarder": "Microsoft Certified",
+      "summary": "As a Microsoft Azure solutions architect, you have subject matter expertise in designing cloud and hybrid solutions that run on Azure."
     }
   ],
   "references": [
