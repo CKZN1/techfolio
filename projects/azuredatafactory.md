@@ -21,5 +21,7 @@ One of my favourite projects involved a data transformation from Oracle to an on
 ## The Challenge
 The task was simple, at least initially: load mutiple tables containing millions of data rows, clean and transform and ingest.It quickly turned into a substantial amount that tested not only the infrastructure but the team.
 
+<img class="img-fluid" src="../img/adf/adf.png">
+
 ## Speed. More faster
-Coming up with a fast and efficient method to handle this data, ensuring its integrity and handling errors during the transformation process. A project that will live long in the memory... this story continues
+Coming up with a fast and efficient method to handle this data, ensuring its integrity and handling errors during the transformation process. A project that will live long in the memory. My role was to design the architecture (see diagram) and then follow through with the implementation as technical team lead. Working with some of the best minds, developers, testers, friends and colleagues, we did deliver this project.
