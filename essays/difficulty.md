@@ -15,7 +15,7 @@ labels:
 
 I recently passed the Microsoft Certified AZ-104 Azure Administrator Associate exam.
 
-It is a challenging exam --academic study is not enough. It really that requires a good understanding of Azure fundamentals, services, and management tools, that can only come from years of industry experience.
+It is a challenging exam --academic study is not enough. It really requires a good understanding of Azure fundamentals, services, and management tools, that can only come from years of industry experience.
 
 ## Some of the tougher subjects include:
 
