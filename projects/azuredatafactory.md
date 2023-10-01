@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/adf/servers.jpg
-title: "Azure Data Factory"
+title: "Loading and transforming 100 million rows with Azure Data Factory"
 date: 2018
 published: true
 labels:
@@ -15,14 +15,17 @@ summary: "Not your ordinary big data transformation project"
 
 <img class="img-fluid" src="../img/adf/servers.jpg">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+## Project Overview
+One of my cherished projects involved a data transformation from Oracle to an on-premise solution, and eventually to Azure SQL. I had the opportunity to lead the team and was responsible for designing the architecture to ensure a seamless data flow.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+## The Challenge
+The task was far from straightforward, with the first hurdle being the volume of data we were dealing with. It was a substantial amount that really tested our infrastructure's capabilities.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+## Problem-Solving
+Speed. More speed...Coming up with a reliable and efficient method to handle this data, ensuring its integrity during the transformation process, was a nuanced problem that demanded a well-thought-out approach.
 
-Here is some example code to illustrate Simple Schema use:
+## Reflection
+It was a scenario where technical understanding and problem-solving skills were crucial, and I appreciated every bit of the learning curve it entailed.
 
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
  
 Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
