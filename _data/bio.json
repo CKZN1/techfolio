@@ -14,9 +14,9 @@
     ]
   },
   "interests": [
-    { "name": "Artificial Intelligence" },
-    { "name": "Languages (Portuguese, Russian, German)" },
-    { "name": "Photography (Sony A7IV, FE 24-70mm Lens" },
+    { "name": "Gen AI" },
+    { "name": "Portuguese, Russian, German" },
+    { "name": "Photography - Sony A7IV FE 24-70mm" },
   ],
   "skills": [
     {
@@ -24,17 +24,17 @@
       "keywords": [ "C#", "Javascript", "SQL", "Python" ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Frameworks",
       "keywords": [ "Microsoft Azure", "ASP.Net Core", "Node JS", "React"]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "institution": "University of Bolton, Lancashire",
+      "area": "Computing (expected Spring, 2018)",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2006",
       "courses": [
       ]
     }
