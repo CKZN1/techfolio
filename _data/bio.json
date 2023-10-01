@@ -10,9 +10,7 @@
     "location": { "address": "", "postalCode": "", "city": "London", "countryCode": "UK", "region": "" },
     "profiles": [
       { "network": "github", "username": "mmaluhia", "url": "http://github.com/ckzn1" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/contractdev" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/contractdev" }
     ]
   },
   "interests": [
