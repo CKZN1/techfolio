@@ -9,7 +9,7 @@ labels:
   - Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg">
 
 *Difficulty: a thing that is hard to accomplish, deal with, or understand.*
 
