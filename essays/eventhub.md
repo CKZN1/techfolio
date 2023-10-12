@@ -9,8 +9,7 @@ labels:
   - Azure Event Hub, Video Demo
 ---
 
-<iframe width="560" height="315" src="https://youtu.be/Q9920fBxJFM" frameborder="0" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q9920fBxJFM?si=jkmmnPNwSCO0uNe9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 *Transcript*
 
 What is Azure Event Hub and how is it different from Azure Service Bus
