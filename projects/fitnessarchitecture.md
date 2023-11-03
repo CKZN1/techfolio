@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: img/adf/servers.jpg
-title: "Loading and transforming 100 million rows with Azure Data Factory"
+image: img/fitness/fitpic.jpg
+title: "I architected an IoT solution for a fitness franchise"
 date: 2023
 published: true
 labels:
