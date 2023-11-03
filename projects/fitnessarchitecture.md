@@ -7,9 +7,8 @@ date: 2023
 published: true
 labels:
   - Architecture
-  - BigData
-  - Oracle
-  - Sql
+  - IoT
+  - Azure
 summary: "Scalability, cost reduction, and compliance through microservices."
 ---
 
