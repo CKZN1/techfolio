@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="I architected an IoT solution for a fitness franchise | Kez Nwichi | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://avatars.githubusercontent.com/u/143608228?v=4">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Kez Nwichi | Professional Portfolio">
+    <meta property="og:url" content="https://github.com/CKZN1/techfolio/projects/fitnessarchitecture.html">
+    <meta property="og:title" content="I architected an IoT solution for a fitness franchise | Kez Nwichi | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://avatars.githubusercontent.com/u/143608228?v=4">
+    <link rel="shortcut icon" href="/techfolio/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/techfolio/css/techfolio-theme/skyblue.css">
+    <link rel="stylesheet" type="text/css" href="/techfolio/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>I architected an IoT solution for a fitness franchise | Kez Nwichi | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/techfolio/">Kez Nwichi</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/techfolio/#projects">Projects</a>
+        <a class="nav-link" href="/techfolio/#essays">Essays</a>
+        <a class="nav-link" href="/techfolio/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">I architected an IoT solution for a fitness franchise</h1>
+ <p><img class="img-fluid" src="../img/fitness/fitpic.jpg" /></p>
+
+<h2 id="project-overview">Project Overview</h2>
+<p>Recently, I was given a solution to architect for a client who had on-premise systems and wanted to move to the cloud to increase scalability and reduce costs. The client’s current architecture involved devices sending fitness data to an API hosted on a virtual machine (VM), which also served as the backend for a mobile app. However, this system was tightly coupled and needed to be broken up into microservices.
+<img class="img-fluid" src="../img/fitness/fitarch.png" /></p>
+<h2 id="the-challenge">The Challenge</h2>
+<p>To begin the process, I first identified the different components of the system and their dependencies. Then designed a new architecture that separated these components into individual microservices, each with its own API. This allowed scaling each microservice independently.</p>
+
+<p>I also implemented containerization using Docker, packaging each microservice into a lightweight, portable container, reducing the client’s infrastructure costs.</p>
+
+<h2 id="safety-first">Safety first</h2>
+<p>In addition, I designed the new system to be PCI DSS and ISO 27001 compliant, ensuring that the client’s data was secure and protected. This involved implementing strict security measures, such as encryption, access controls, and regular security audits.</p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>

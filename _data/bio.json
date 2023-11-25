@@ -1,0 +1,78 @@
+{
+  "basics": {
+    "name": "Kez Nwichi",
+    "label": "Contract Azure C# Developer Architect",
+    "picture": "https://avatars.githubusercontent.com/u/143608228?v=4",
+    "email": "contractdev@onmail.com",
+    "phone": "☏ Whatsapp UK +44 7429349316",
+    "website": "https://contractdev.net",
+    "summary": "I'm a developer specialized in C#. Currently, I'm deeply fascinated with large data, particularly streaming data via Azure Stream Analytics. I'm keen on exploring efficient ways to visualise vast datasets using Python and JavaScript libraries.",
+    "location": { "address": "", "postalCode": "", "city": "London", "countryCode": "UK", "region": "" },
+    "profiles": [
+      { "network": "github", "username": "ckzn1", "url": "http://github.com/ckzn1" },
+      { "network": "linkedin", "username": "contractdev", "url": "http://linkedin.com/in/contractdev" },
+      { "network": "twitter", "username": "1contractdev", "url": "http://twitter.com/1contractdev" }
+    ]
+  },
+  "interests": [
+    { "name": "Gen AI" },
+    { "name": "Portuguese, Russian, German" },
+    { "name": "Photography - Sony A7IV FE 24-70mm" }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "keywords": [ "C#", "Javascript", "SQL", "Python" ]
+    },
+    {
+      "name": "Frameworks",
+      "keywords": [ "Microsoft Azure", "ASP.Net Core", "Node JS", "React"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Bolton, Lancashire",
+      "area": "Computing",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2006",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Self Employed Contractor",
+      "position": "C# Developer, Azure Architect",
+      "startDate": "2011-03-01",
+      "endDate": "Present",
+      "summary": "Developing and architecting Azure integrations to modern best practice.",
+      "highlights": [
+        "Extensive software engineering background since 2006 (C++, C#, Javascript, React, Angular, Web API, .Net Core)",
+        "Highly experienced Developer, Team Lead and Azure Technical Architect with 15+ years of experience as a C# .Net developer, SQL and Azure devops.",
+        "Experience in designing and implementing scalable cloud solutions for clients. Extensive knowledge of Azure services and technologies, including PaaS, IaaS, and SaaS.",
+        "Understanding of cloud migration, cloud security, and DevOps processes.",
+        "Proven ability to lead, communicate and effectively manage multiple projects and priorities."
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Azure Administrator Associate",
+      "date": "2023",
+      "awarder": "Microsoft Certified",
+      "summary": "Demonstrated subject matter expertise in implementing, managing, and monitoring an organization’s Microsoft Azure environment."
+    },
+    {
+      "title": "Azure Solutions Architect Expert",
+      "date": "2019",
+      "awarder": "Microsoft Certified",
+      "summary": "As a Microsoft Azure solutions architect, you have subject matter expertise in designing cloud and hybrid solutions that run on Azure."
+    }
+  ],
+  "references": [
+    {
+      "name": "'Kez is one of the most professional and knowledgeable developers I've worked with' - Adam S (Development Manager - New Signature)"
+    }
+  ]
+}
